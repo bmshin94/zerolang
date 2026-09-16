@@ -1,7 +1,7 @@
 # Zerolang
 
 <p>
-  <a href="https://vercel.com/labs#active-experiments"><img alt="Vercel Labs Experiment" src="https://img.shields.io/badge/Labs%20Experiment-000000.svg?style=for-the-badge&amp;logo=Vercel&amp;labelColor=000" height="28"></a>
+  <a href="https://vercel.com/labs#active-experiments"><img alt="Vercel Labs Experiment" src="https://img.shields.io/badge/LABS-EXPERIMENT-0a0a0a.svg?style=for-the-badge&amp;logo=Vercel&amp;labelColor=000000" height="28"></a>
   <a href="https://github.com/vercel-labs/zerolang/releases/latest"><img alt="Zerolang compiler release" src="https://img.shields.io/github/v/release/vercel-labs/zerolang.svg?style=for-the-badge&amp;labelColor=000000&amp;label=release" height="28"></a>
   <a href="https://github.com/vercel-labs/zerolang/blob/main/LICENSE"><img alt="License: Apache-2.0" src="https://img.shields.io/github/license/vercel-labs/zerolang.svg?style=for-the-badge&amp;labelColor=000000" height="28"></a>
 </p>
